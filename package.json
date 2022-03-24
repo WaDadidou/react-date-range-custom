@@ -1,5 +1,5 @@
 {
-  "name": "react-date-range-custom",
+  "name": "react-date-range-custom07",
   "version": "1.4.0",
   "description": "A React component for choosing dates and date ranges. Customized by WaDadidou if need. BIG THANKS for the owners <3",
   "main": "dist/index.js",
@@ -29,7 +29,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/WaDadidou/react-date-range-custom"
+    "url": "http://github.com/WaDadidou/react-date-range-custom07"
   },
   "browserslist": [
     "defaults"
