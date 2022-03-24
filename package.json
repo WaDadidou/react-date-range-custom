@@ -1,7 +1,7 @@
 {
-  "name": "react-date-range",
+  "name": "react-date-range-custom",
   "version": "1.4.0",
-  "description": "A React component for choosing dates and date ranges.",
+  "description": "A React component for choosing dates and date ranges. Customized by WaDadidou if need. BIG THANKS for the owners <3",
   "main": "dist/index.js",
   "scripts": {
     "start": "yarn build:css & styleguidist server",
